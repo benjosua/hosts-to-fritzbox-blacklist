@@ -1,0 +1,1 @@
+# hosts-to-fritzbox-blacklist
